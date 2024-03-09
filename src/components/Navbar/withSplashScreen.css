@@ -1,0 +1,19 @@
+.App-logo{
+    display: block;
+    padding-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 38%;
+}
+
+@media only screen and (max-width: 480px) {
+
+    .App-logo{
+        display: block;
+        padding-top: 30%;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%
+        
+    }
+}

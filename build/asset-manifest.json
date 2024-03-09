@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/random-match/static/css/main.9d5e1ff8.css",
+    "main.js": "/random-match/static/js/main.85d2cfe5.js",
+    "static/js/787.58e322c4.chunk.js": "/random-match/static/js/787.58e322c4.chunk.js",
+    "static/media/SplashFinal.png": "/random-match/static/media/SplashFinal.bac649cf9f648685906e.png",
+    "static/media/starbucks.png": "/random-match/static/media/starbucks.a7738f399684f1ca2b36.png",
+    "static/media/GiftBox.jpeg": "/random-match/static/media/GiftBox.d892af239013519d685c.jpeg",
+    "index.html": "/random-match/index.html",
+    "main.9d5e1ff8.css.map": "/random-match/static/css/main.9d5e1ff8.css.map",
+    "main.85d2cfe5.js.map": "/random-match/static/js/main.85d2cfe5.js.map",
+    "787.58e322c4.chunk.js.map": "/random-match/static/js/787.58e322c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d5e1ff8.css",
+    "static/js/main.85d2cfe5.js"
+  ]
+}
